@@ -2,13 +2,13 @@
 Mid Course Assessment - ML Case Study(Credit Scoring (Banking &amp; Financial Services))
 
 
-This project aims to develop a machine learning-based credit scoring system for a financial institution to classify customers into three credit risk categories: Good, Poor, or Standard. By leveraging historical financial behavior, loan history, and demographic data, the solution seeks to replace traditional, error-prone methods with a dynamic, interpretable model that improves risk assessment accuracy, reduces defaults, and enables personalized financial services.
+This project aims to develop a machine learning-based credit scoring system for a financial institution to classify customers into good, poor, or standard credit risk categories. By leveraging historical financial behavior, loan history, and demographic data, the solution seeks to replace traditional, error-prone methods with a dynamic, interpretable model that improves risk assessment accuracy, reduces defaults, and enables personalized financial services.
 
-Objective : 
+**Objective :** 
 
-* The main objective is to build a predictive model that can classify individuals into different credit score categories (e.g., Bad, Standard, Good) based on the available features. This can assist lenders in making informed decisions regarding credit approvals and risk management.
+**The main objective is to build a predictive model that can classify individuals into different credit score categories (e.g., Bad, Standard, Good) based on the available features. This can assist lenders in making informed decisions regarding credit approvals and risk management.**
 
-Data Description : 
+**Data Description:** 
 
 * This dataset contains financial and credit-related information for customers, including details about their income, loans, credit behavior, and credit score classification. Below is a structured breakdown of the data:
 
