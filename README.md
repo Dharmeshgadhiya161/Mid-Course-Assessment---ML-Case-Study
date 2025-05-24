@@ -67,3 +67,6 @@ Data Description :
 * Monthly_Balance : Available balance in the customer’s account per month.
 
 * Credit_Score (Target Variable) : The customer's credit score categorized as: (Good, Standard, Poor)
+
+
+**Worked on a Credit Scoring Supervised Classification project to predict customer credit default risk. Cleaned the dataset by handling missing values and removing outliers. Performed EDA, feature selection, and handled class imbalance. Applied Label Encoding for categorical variables during preprocessing. Trained multiple models, including Logistic Regression, XGBoost, Random Forest, and Gradient Boosting. Random Forest achieved the best performance with an accuracy of 0.808. Evaluated models using precision, recall, F1-score, and confusion matrix. Performed hyperparameter tuning using GridSearchCV to optimize the Random Forest model. This project demonstrates the practical application of supervised learning in financial risk analysis.**
